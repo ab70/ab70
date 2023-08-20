@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Nurul Abrar, a full stack developer 👨‍💻 worked remotely as Laravel and Wordpress Developer 🚀. But moved to MERN stack and exploring filed of Js and highly interested to move towards resume-able JS framework🚀.</div>  
+### <div align="center">I'm Nurul Abrar, a full stack developer 👨‍💻 worked remotely as Laravel and Wordpress Developer 🚀. But moved to MERN stack and exploring field of Js and highly interested to move towards resume-able JS framework🚀. Along with high performance JS framework like ElysiaJs</div>  
   
 
 - 🌱 I’m currently practicing on MERN 🗽  
