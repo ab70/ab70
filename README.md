@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Nurul Abrar, a full stack developer 👨‍💻 worked remotely as Laravel and Wordpress Developer 🚀. But moved to MERN stack and exploring field of Js and highly interested to move towards resume-able JS framework🚀. Along with high performance JS framework like ElysiaJs</div>  
+### <div align="center">I'm Nurul Abrar, a full stack MERN developer. 👨‍💻 Currently working as a fuul-stack MERN developer and has remote working experience on Laravel & MERN  Currently exploring high performance JS framework like ElysiaJs🚀, and Actix-web (RUST) for high performance with memory safety feature</div>  
   
 
 - 🌱 I’m currently practicing on MERN 🗽  
@@ -36,8 +36,7 @@
 <a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="50" /></a>  
 <a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="50" /></a>  
 <a href="https://chakra-ui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chakraui.png" alt="Chakra UI" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://www.chaijs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/chai.png" alt="Chai" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a> 
 </div>
 
 </td><td valign="top" width="33%">
