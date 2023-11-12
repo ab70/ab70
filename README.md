@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">I'm Nurul Abrar, a full stack MERN developer. 👨‍💻 Currently working as a fuul-stack MERN developer and has remote working experience on Laravel & MERN  Currently exploring high performance JS framework like ElysiaJs🚀, and Actix-web (RUST) for high performance with memory safety feature</div>  
+### <div align="center">I'm Nurul Abrar, a full stack MERN developer. 👨‍💻 Currently working as a full-stack MERN developer and has remote working experience on Laravel & MERN  Currently exploring high performance JS framework like ElysiaJs🚀, and Actix-web (RUST) for high performance with memory safety feature</div>  
   
 
 - 🌱 I’m currently practicing on MERN 🗽  
