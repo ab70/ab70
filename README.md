@@ -3,7 +3,7 @@
 </div>  
   
 
-### <div align="center">A full stack MERN developer. 👨‍💻 Focused on building 🚀 high-performance, 🛡️ secure, 💎 elegant  application with most reliable & efficient frameworks Elysiajs (Bun), ExpressJs (node), Actix-web(Rust) & NextJs </div>  
+### <div align="center">A full stack MERN developer. 👨‍💻 Focused on building 🚀 high-performance, 🛡️ secure, 💎 elegant application with most reliable & efficient frameworks  ExpressJs (node), Elysiajs (Bun), Axum (Rust) & NextJs </div>  
   
 
 - 🌱 I’m currently practicing on MERN 🗽  
