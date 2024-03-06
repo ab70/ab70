@@ -17,6 +17,19 @@
 
 ## Skill Sets  
 
+### Backend  
+<div align="center">  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+<a href="https://bun.sh/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/vscode-icons:file-type-bun.svg?color=%23b9afca" alt="Node.js" height="50" /></a> 
+<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/skill-icons:expressjs-light.svg?color=%235d21c4" alt="Express.js" height="50" /></a>  
+<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/vscode-icons:file-type-rust.svg?color=%23888888" alt="Rust" height="50" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+
+</div>  
+
 ### Frontend  
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -30,18 +43,7 @@
 <a href="https://qwik.dev/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/logos:qwik-icon.svg?color=%23ff0000" alt="Redux" height="50" /></a> 
 </div>
 
-### Backend  
-<div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
-<a href="https://bun.sh/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/vscode-icons:file-type-bun.svg?color=%23b9afca" alt="Node.js" height="50" /></a> 
-<a href="https://expressjs.com/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/skill-icons:expressjs-light.svg?color=%235d21c4" alt="Express.js" height="50" /></a>  
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/vscode-icons:file-type-rust.svg?color=%23888888" alt="Rust" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 
-</div>  
 
 
 
