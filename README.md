@@ -19,10 +19,10 @@
 
 ### Backend  
 <div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="50" /></a>
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="69" /></a>
 <a href="https://bun.sh/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/vscode-icons:file-type-bun.svg?color=%23b9afca" alt="Node.js" height="50" /></a> 
 <a href="https://gofiber.io/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/skill-icons:golang.svg" alt="Fiber" height="50" /></a>
-<a href="https://www.serverless.com/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/logos:serverless.svg?color=%23ed333b" alt="serverless" height="40" /></a>
+<a href="https://www.serverless.com/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/logos:serverless.svg?color=%23ed333b" alt="serverless" height="43" /></a>
 <a href="https://fastify.dev/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/devicon-plain:fastify-wordmark.svg?color=%23ed333b" alt="Express.js" height="50" /></a> 
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/skill-icons:rust.svg" alt="Rust" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
@@ -39,10 +39,8 @@
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>
 <a href="https://elysiajs.com/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/skill-icons:elysia-light.svg?color=%23ff0000" alt="Elysia" height="50" /></a> 
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>  
-<a href="https://mui.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mui.png" alt="Material UI" height="50" /></a>
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>   
-<a href="https://qwik.dev/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/logos:qwik-icon.svg?color=%23ff0000" alt="Redux" height="50" /></a> 
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
 </div>
 
 
@@ -88,6 +86,7 @@
 </a>  
 </div>  
 <br/>  
+
 ## Github Stats  
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=ab70&show_icons=true&count_private=true&hide_border=true" align="center" /></div>  
 <br/>  
