@@ -19,28 +19,28 @@
 
 ### Backend  
 <div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="69" /></a>
-<a href="https://bun.sh/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/vscode-icons:file-type-bun.svg?color=%23b9afca" alt="Node.js" height="50" /></a> 
-<a href="https://gofiber.io/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/skill-icons:golang.svg" alt="Fiber" height="50" /></a>
-<a href="https://www.serverless.com/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/logos:serverless.svg?color=%23ed333b" alt="serverless" height="43" /></a>
-<a href="https://fastify.dev/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/devicon-plain:fastify-wordmark.svg?color=%23ed333b" alt="Express.js" height="50" /></a> 
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/skill-icons:rust.svg" alt="Rust" height="50" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://nestjs.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
-<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="69" /></a>
+<a href="https://bun.sh/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/vscode-icons:file-type-bun.svg?color=%23b9afca" alt="Node.js" height="50" /></a> 
+<a href="https://gofiber.io/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:golang.svg" alt="Fiber" height="50" /></a>
+<a href="https://www.serverless.com/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/logos:serverless.svg?color=%23ed333b" alt="serverless" height="43" /></a>
+<a href="https://fastify.dev/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/devicon-plain:fastify-wordmark.svg?color=%23ed333b" alt="Express.js" height="50" /></a> 
+<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:rust.svg" alt="Rust" height="50" /></a>  
+<a href="https://graphql.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
+<a href="https://nestjs.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
+<a href="https://www.php.net/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 
 </div>  
 
 ### Frontend  
 <div align="center">  
-<a href="https://reactjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
-<a href="https://nuxtjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>
-<a href="https://elysiajs.com/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/skill-icons:elysia-light.svg?color=%23ff0000" alt="Elysia" height="50" /></a> 
-<a href="https://sass-lang.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
-<a href="https://redux.js.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
+<a href="https://reactjs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
+<a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
+<a href="https://nextjs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
+<a href="https://nuxtjs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>
+<a href="https://elysiajs.com/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:elysia-light.svg?color=%23ff0000" alt="Elysia" height="50" /></a> 
+<a href="https://sass-lang.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
+<a href="https://redux.js.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
 </div>
 
 
@@ -49,23 +49,23 @@
 
 ### Database  
 <div align="center">  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://api.iconify.design/devicon:mongodb-wordmark.svg?color=%2300ff59" alt="MongoDB" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
-<a href="https://www.scylladb.com/" target="_blank"><img style="margin: 10px" src="https://www.scylladb.com/wp-content/uploads/logo-scylla-horizontal-RGB.svg" alt="MySQL" height="40" /></a>  
+<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/devicon:mongodb-wordmark.svg?color=%2300ff59" alt="MongoDB" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.scylladb.com/" target="_blank"><img style="margin: 20px" src="https://www.scylladb.com/wp-content/uploads/logo-scylla-horizontal-RGB.svg" alt="MySQL" height="40" /></a>  
 </div>  
 
 
 
 ### DevOps  
 <div align="center">  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
-<a href="https://www.linux.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
-<a href="https://www.nginx.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
-<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
+<a href="https://www.docker.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="50" /></a>  
+<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="50" /></a>  
+<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
+<a href="https://www.linux.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/linux-original.svg" alt="Linux" height="50" /></a>  
+<a href="https://www.nginx.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nginx-original.svg" alt="Nginx" height="50" /></a>  
+<a href="https://github.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="50" /></a>  
+<a href="https://aws.amazon.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/amazonwebservices-original-wordmark.svg" alt="AWS" height="50" /></a>  
 </div>  
 
 <br/>
