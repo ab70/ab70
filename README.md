@@ -22,12 +22,11 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="69" /></a>
 <a href="https://bun.sh/" target="_blank"><img style="margin: 30px" src="https://api.iconify.design/skill-icons:bun-light.svg" alt="Node.js" height="50" /></a> 
 <a href="https://gofiber.io/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:golang.svg" alt="Fiber" height="50" /></a>
-<a href="https://www.serverless.com/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/logos:serverless.svg?color=%23ed333b" alt="serverless" height="43" /></a>
-<a href="https://grpc.io/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/logos:grpc.svg" alt="gRPC" height="50" /></a> 
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:rust.svg" alt="Rust" height="50" /></a>  
+<a href="https://grpc.io/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/logos:grpc.svg" alt="gRPC" height="50" /></a> 
 <a href="https://graphql.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:rabbitmq-dark.svg" alt="RabbitMQ" height="50" /></a>  
-<a href="https://www.php.net/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:rabbitmq-dark.svg" alt="RabbitMQ" height="50" /></a>
+<a href="https://www.serverless.com/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/logos:serverless.svg?color=%23ed333b" alt="serverless" height="43" /></a>
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 
 </div>  
