@@ -23,7 +23,7 @@
 <a href="https://bun.sh/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/vscode-icons:file-type-bun.svg?color=%23b9afca" alt="Node.js" height="50" /></a> 
 <a href="https://gofiber.io/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:golang.svg" alt="Fiber" height="50" /></a>
 <a href="https://www.serverless.com/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/logos:serverless.svg?color=%23ed333b" alt="serverless" height="43" /></a>
-<a href="https://fastify.dev/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/devicon-plain:fastify-wordmark.svg?color=%23ed333b" alt="Express.js" height="50" /></a> 
+<a href="https://grpc.io/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/logos:grpc.svg" alt="gRPC" height="50" /></a> 
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:rust.svg" alt="Rust" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 <a href="https://nestjs.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nestjs.svg" alt="NestJS" height="50" /></a>  
