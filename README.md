@@ -26,7 +26,7 @@
 <a href="https://grpc.io/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/logos:grpc.svg" alt="gRPC" height="50" /></a> 
 <a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:rust.svg" alt="Rust" height="50" /></a>  
 <a href="https://graphql.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/logos:rabbitmq.svg" alt="RabbitMQ" height="50" /></a>  
+<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:rabbitmq-dark.svg" alt="RabbitMQ" height="50" /></a>  
 <a href="https://www.php.net/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/php-original.svg" alt="PHP" height="50" /></a>  
 <a href="https://www.cplusplus.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/cplusplus-original.svg" alt="C++" height="50" /></a>  
 
