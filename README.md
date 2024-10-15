@@ -19,8 +19,8 @@
 
 ### Backend  
 <div align="center">  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="69" /></a>
-<a href="https://bun.sh/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:bun-light.svg" alt="Node.js" height="50" /></a> 
+<a href="https://nodejs.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="69" /></a>
+<a href="https://bun.sh/" target="_blank"><img style="margin: 30px" src="https://api.iconify.design/skill-icons:bun-light.svg" alt="Node.js" height="50" /></a> 
 <a href="https://gofiber.io/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:golang.svg" alt="Fiber" height="50" /></a>
 <a href="https://www.serverless.com/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/logos:serverless.svg?color=%23ed333b" alt="serverless" height="43" /></a>
 <a href="https://grpc.io/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/logos:grpc.svg" alt="gRPC" height="50" /></a> 
