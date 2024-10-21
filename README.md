@@ -49,8 +49,8 @@
 ### Database  
 <div align="center">  
 <a href="https://www.mongodb.com/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/devicon:mongodb-wordmark.svg?color=%2300ff59" alt="MongoDB" height="50" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="50" /></a>
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="50" /></a>  
+<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:postgresql-light.svg" alt="PostgreSQL" height="50" /></a>
+<a href="https://www.mysql.com/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:mysql-light.svg" alt="MySQL" height="50" /></a>  
 <a href="https://www.scylladb.com/" target="_blank"><img style="margin: 20px" src="https://www.scylladb.com/wp-content/uploads/logo-scylla-horizontal-RGB.svg" alt="MySQL" height="40" /></a>  
 </div>  
 
