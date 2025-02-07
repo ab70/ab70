@@ -22,7 +22,7 @@
 <a href="https://nodejs.org/" target="_blank"><img style="margin: 30px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="69" /></a>
 <a href="https://bun.sh/" target="_blank"><img style="margin: 30px" src="https://api.iconify.design/skill-icons:bun-light.svg" alt="Node.js" height="50" /></a> 
 <a href="https://gofiber.io/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:golang.svg" alt="Fiber" height="50" /></a>
-<a href="https://www.rust-lang.org/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:rust.svg" alt="Rust" height="50" /></a>  
+<a href="https://elysiajs.com/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:elysia-light.svg?color=%23ff0000" alt="Elysia" height="50" /></a> 
 <a href="https://grpc.io/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/logos:grpc.svg" alt="gRPC" height="50" /></a> 
 <a href="https://graphql.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="50" /></a>  
 <a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:rabbitmq-dark.svg" alt="RabbitMQ" height="50" /></a>
@@ -37,7 +37,6 @@
 <a href="https://www.javascript.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="50" /></a>  
 <a href="https://nextjs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="50" /></a>  
 <a href="https://nuxtjs.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/nuxt.png" alt="Nuxt JS" height="50" /></a>
-<a href="https://elysiajs.com/" target="_blank"><img style="margin: 20px" src="https://api.iconify.design/skill-icons:elysia-light.svg?color=%23ff0000" alt="Elysia" height="50" /></a> 
 <a href="https://sass-lang.com/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/sass-original.svg" alt="Sass" height="50" /></a>
 <a href="https://redux.js.org/" target="_blank"><img style="margin: 20px" src="https://profilinator.rishav.dev/skills-assets/redux-original.svg" alt="Redux" height="50" /></a>
 </div>
